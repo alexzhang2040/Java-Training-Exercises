@@ -25,6 +25,5 @@ Create another default class called 'Jacket' that extends Shirt:
 1. A .java file
 2. Prints the color & size of a T_Shirt
 3. Prints the color & size of a Jacket
-4. Prints the isZip of a Jacket
-5. Prints the total price of the items
+4. Prints the total price of the items
 ```
