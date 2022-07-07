@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
-
+        "Day 3/Polymorphism",
+        "Day 3/Inheritance",
+        "Day 3/Abstraction",
+        "Day 3/Encapsulation"
         "Day 2/While Loops",
         "Day 2/Void Methods",
         "Day 2/Non-Void Methods",
